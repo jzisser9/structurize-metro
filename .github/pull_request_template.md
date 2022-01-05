@@ -1,18 +1,12 @@
 # Description
 
-**Please include a summary of the change and, if applicable, which issue # this fixes.**
+> Fixes #
 
-> 
-
-# Screenshots
-
-**Please attach any applicable screenshots to display your feature.**
+# Screenshots (if applicable)
 
 > 
 
 # Type of change
-
-**This is a:**
 
 - [ ] Bugfix (Non-breaking change which fixes an existing issue)
 - [ ] New feature (Non-breaking change which adds functionality)
@@ -21,9 +15,7 @@
 
 # How has this been tested?
 
-**Please describe how you tested this change.**
-
-
+> 
 
 # Checklist
 

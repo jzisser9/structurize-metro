@@ -1,0 +1,13 @@
+{
+  "icon": "metro.jpg",
+  "name": "Metro",
+  "authors": [
+    "Argus9"
+  ],
+  "desc": "An urban building style fashioned after New York City. Buildings fit into city blocks and expand upward with upgrades.",
+  "mods": [
+  "minecolonies"
+  ],
+  "version": "9",
+  "pack-format": "1"
+}
